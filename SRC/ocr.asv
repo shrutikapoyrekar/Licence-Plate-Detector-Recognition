@@ -1,0 +1,8 @@
+% OCR code
+
+a = imread('image1.jpg');
+
+BW = edge(double(a),'sobel', 2);
+figure(1);
+imshow(BW);
+
