@@ -1,6 +1,6 @@
 % OCR (Optical Character Recognition).
-% Author: Ankit Saroch 
-% e-mail: saroch.ankit@gmail.com
+% Author: Shrutika Poyrekar
+% e-mail: rashirishi@gmail.com
 % 
 %________________________________________
 % PRINCIPAL PROGRAM
